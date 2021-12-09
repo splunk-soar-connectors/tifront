@@ -238,5 +238,17 @@
             ],
             "versions": "EQ(*)"
         }
-    ]
+    ],
+    "pip_dependencies": {
+        "wheel": [
+            {
+                "module": "pexpect",
+                "input_file": "wheels/pexpect-4.8.0-py2.py3-none-any.whl"
+            },
+            {
+                "module": "ptyprocess",
+                "input_file": "wheels/ptyprocess-0.7.0-py2.py3-none-any.whl"
+            }
+        ]
+    }
 }
