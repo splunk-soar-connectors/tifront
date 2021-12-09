@@ -1,0 +1,22 @@
+Splunk SOAR TiFRONT
+Copyright (c) Tokyo Electron Device LTD. 2017
+
+Third-party Software Attributions:
+
+Library: pexpect
+Version: 4.8.0
+License: ISC
+Copyright 2012 Noah Spurrier <noah@noah.org>
+Copyright 2013-2014 Pexpect development team
+
+Library: simplejson
+Version: 3.17.2
+License: MIT
+License: Academic 2.1
+Copyright 2003-2004 Lawrence E
+Copyright 2006 Bob Ippolito
+
+Library: pudb
+Version: 2019.2
+License: MIT
+Copyright 2009 Andreas Kloeckner and contributors
